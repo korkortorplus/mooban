@@ -1,0 +1,7 @@
+name: mooban
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - geopandas
+prefix: C:\Users\lifep\miniconda3\envs\mooban
