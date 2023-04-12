@@ -1,7 +1,9 @@
 name: mooban
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - python=3.9
   - geopandas
+  - ipykernel
 prefix: C:\Users\lifep\miniconda3\envs\mooban
